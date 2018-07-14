@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a CSE undergrad currently in seventh semester at Chandigarh College of Engineering and Technology. My research interest lies in machine learning and its applications to NLP and sports.
+This blog serves as an avenue to post about my work and some techniques/papers that I find interesting along with the relevant code.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sagartomar97@gmail.com](mailto:sagartomar97@gmail.com)
